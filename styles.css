@@ -1,0 +1,131 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(http://fonts.googleapis.com/css?family=Varela+Round:400,700);
+
+body {
+  color: #555;
+  margin: 0;
+
+  font-family: 'Montserrat', sans-serif;
+}
+
+#header {
+  height: 140px;
+  line-height: 150px;
+}
+
+#header a {
+  color: #B7B7B7;
+  text-decoration: none;
+
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+#header a:hover {
+  color: #222;
+}
+
+#header-title img {
+  width: 710px;
+  height: 135px;
+  vertical-align: top;
+  padding-top: 2px;
+  padding-left: 20px;
+}
+
+#header-nav {
+  display: block;
+  float: right;
+  margin-top: 0;
+}
+
+#header-nav li {
+  display: inline;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+#main img {
+  max-width: 98%;
+  height: auto;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+#subnav li {
+  background-color: #A9A9A9;
+  display: inline;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+  vertical-align: top;
+}
+
+#subnav {
+  height: 50px;
+  line-height: 50px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin: 0 auto;
+}
+
+#submain {
+  padding-left: 30px;
+  padding-right: 30px;
+  vertical-align: middle;
+  text-align: center;
+}
+
+#slogan-list {
+  vertical-align: middle;
+  text-align: center;
+  display: inline;
+  font-family: 'Varela+Round', sans-serif;
+  font-size: 64px;
+}
+
+#credits {
+  text-align: center;
+  display: inline;
+  font-family: Montserrat;
+  padding-top: 40px;
+}
+
+#aboutpage {
+  text-align: justify;
+  font-family: 'Varela+Round', sans-serif;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 40px;
+  padding-bottom: 40px:
+}
+
+#careers a:hover {
+  color: #222;
+}
+
+#careers {
+  padding-left: 40px;
+  font-family: 'Varela+Round', sans-serif;
+}
+
+#positions {
+  padding-left: 40px;
+  font-family: 'Varela+Round', sans-serif;
+  padding-right: 40px;
+}
+
+#contactinfo {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+#contactinformation {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+#formsubmit {
+  padding-left: 40px;
+  padding-right: 40px;
+}
