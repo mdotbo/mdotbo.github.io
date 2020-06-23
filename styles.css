@@ -27,7 +27,7 @@ body {
 
 #header-title img {
   width: 710px;
-  height: 135px;
+  height: 220px;
   vertical-align: top;
   padding-top: 2px;
   padding-left: 20px;
@@ -92,7 +92,7 @@ body {
 }
 
 #aboutpage {
-  text-align: justify;
+  text-align: center;
   font-family: 'Varela+Round', sans-serif;
   padding-left: 40px;
   padding-right: 40px;
